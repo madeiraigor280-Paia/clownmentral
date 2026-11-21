@@ -1,0 +1,2 @@
+dinheiro = global.dinheiro;
+
